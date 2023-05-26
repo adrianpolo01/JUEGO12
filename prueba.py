@@ -273,5 +273,3 @@ while bucle_inicio:
     pygame.display.flip()
     
 pygame.quit()
-
-ñ
