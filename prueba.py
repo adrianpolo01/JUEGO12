@@ -274,10 +274,4 @@ while bucle_inicio:
     
 pygame.quit()
 
-
-
-
-
-
-
-
+ñ
